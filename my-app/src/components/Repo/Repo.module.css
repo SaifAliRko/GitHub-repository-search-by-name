@@ -1,0 +1,23 @@
+.Repo{
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 29%;
+    height: 820px;
+    align-content: space-between;
+    align-items: center;
+
+    white-space: nowrap;
+    padding: auto;
+}
+
+.ui.container {
+    overflow: auto;
+    white-space: pre;
+    
+  }
+  .ui.card {
+    display: inline-block;
+  }
+

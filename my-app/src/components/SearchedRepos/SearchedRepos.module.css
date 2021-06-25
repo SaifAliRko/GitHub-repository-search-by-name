@@ -1,0 +1,15 @@
+.AllRepos{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 230px;
+    height: 600px;
+    align-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+    position: absolute;
+    left: 438px;
+    top: 90px;
+    
+}
